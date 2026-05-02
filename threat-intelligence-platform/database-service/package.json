@@ -1,0 +1,14 @@
+{
+  "name": "database-service",
+  "version": "1.0.0",
+  "description": "Threat Intelligence Database Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.5",
+    "dotenv": "^16.3.1"
+  }
+}
